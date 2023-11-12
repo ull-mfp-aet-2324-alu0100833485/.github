@@ -6,4 +6,4 @@ Los profesores que impartirán la asigantura son:
 
 [David Alonso Trujillo](https://github.com/DAT-995)
 
-[Casiano Rodríguez León]((https://github.com/casiano-rodriguez)
+[Casiano Rodríguez León](https://github.com/casiano-rodriguez)
