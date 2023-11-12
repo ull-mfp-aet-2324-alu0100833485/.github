@@ -15,6 +15,6 @@ Los profesores que impartirán la asigantura son:
 
 Los alumnos que forman parte de esta asignatura son los siguientes:
 
-* [Joana Domínguez Toledo](https://github.com/Joanadt98)
+* :raising_hand: [Joana Domínguez Toledo](https://github.com/Joanadt98)
 
-Los alumnos podrán acceder a el aula a través del siguiente enlace [Aula](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
+Los alumnos podrán acceder a el aula a través del siguiente enlace :books: [Aula](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
