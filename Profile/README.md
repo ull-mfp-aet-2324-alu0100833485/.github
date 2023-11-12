@@ -12,3 +12,9 @@ Los profesores que impartirán la asigantura son:
 [David Alonso Trujillo](https://github.com/DAT-995)
 
 [Casiano Rodríguez León](https://github.com/casiano-rodriguez)
+
+Los alumnos que forman parte de esta asignatura son los siguientes:
+
+![Joana Domínguez Toledo]()
+
+Los alumnos podrán acceder a el aula a través del siguiente enlace ![Aula](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
